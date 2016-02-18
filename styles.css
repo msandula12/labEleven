@@ -1,19 +1,19 @@
 body {
-  background-color: #b8f6ff;
+  background-color: #33bedc;
   margin: 20px;
 }
 h1 {
-  color: #ffa500;
+  color: #ff6700;
   font-family: Georgia;
   text-align: center;
   font-size: 3em;
-  text-shadow: 2px 2px #000;
+  text-shadow: 1px 1px 1px #fff;
 }
 .row {
   display: inline-block;
   background-color: #fff;
   float: left;
-  border: 1px solid #ffa500;
+  border: 2px solid #ff6700;
   width: 28%;
   height: 300px;
   margin: 10px;
