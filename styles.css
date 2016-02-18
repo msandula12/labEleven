@@ -1,18 +1,34 @@
 body {
-  background-color: #b8f6ff;
+  background-color: #33bedc;
   margin: 20px;
 }
 h1 {
-  color: #ffa500;
+  color: #ff6700;
   font-family: Georgia;
   text-align: center;
   font-size: 3em;
-  text-shadow: 2px 2px #000;
+  text-shadow: 1px 1px 1px #fff;
 }
-h3 {
+.row {
+  display: inline-block;
+  background-color: #fff;
+  float: left;
+  border: 2px solid #ff6700;
+  width: 28%;
+  height: 300px;
+  margin: 10px;
+  padding: 10px;
+  overflow: hidden;
+}
+h3,
+p {
   color: #2f2f2f;
   font-family: sans-serif;
 }
 img {
   border: 3px solid #808080;
+  margin: 0px auto;
+  width: 97%;
+  height: 150px;
+  position: relative;
 }
